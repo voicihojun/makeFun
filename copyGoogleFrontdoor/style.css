@@ -1,0 +1,58 @@
+
+
+h1 {
+	text-align: center;
+	font-size: 80px;
+	margin-top: 150px;
+	font-weight: bold;
+	font-family: 'Apple SD Gothic Neo',arial,sans-serif;
+}
+
+h1 span:nth-child(1) {
+	color: #4285f4;
+	font-size: 95px;
+}
+h1 span:nth-child(2) {
+	color: #ea4335;
+}
+h1 span:nth-child(3) {
+	color: #fbbc02;
+}
+h1 span:nth-child(4) {
+	color: #4285f4;
+}
+h1 span:nth-child(5) {
+	color: #33a853;
+}
+h1 span:nth-child(6) {
+	color: #ea4335;
+}
+
+.search-bar {
+	width:600px;
+}
+
+.center {
+	text-align: center;
+	margin-top: 2em;
+}
+
+.button {
+	border-radius: 0.5em;
+	background-color: #f2f2f2;
+	color:#5f6368;
+	font-size: 12px;
+}
+
+
+input {
+	
+	background-image: url('search.png'), url('keyboard.png'), url('mic.png');
+	background-size: 20px, 20px, 20px;
+	background-position: 2% 50%, 93% 50%, 98% 50%;
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	display: block;
+	
+	
+}
+
